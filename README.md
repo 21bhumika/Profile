@@ -4,8 +4,6 @@ bbhum@uic.edu | Aurora, Illinois Il
 ~
 Education	
 Bachelor of Computer Science, University of Illinois Chicago, 1st year
-Courses completed: Discrete Math, AP Computer Science (Equivalent to Program Design I and II)
-Current courses: Programming Practicum, Machine Organization
 ~
 Experience	
 •	First Tech Challenge: The team received Motivate Award & Connect Award
